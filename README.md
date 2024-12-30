@@ -236,7 +236,7 @@ The API includes comprehensive error handling:
 
 
 ## 👥 Authors
-- T. Chinna Siva Krishna - [GitHub Profile]((https://github.com/chinnasivakrishna))
+- T. Chinna Siva Krishna - [GitHub Profile](https://github.com/chinnasivakrishna)
 
 ## 🙏 Acknowledgments
 - [100ms Documentation](https://www.100ms.live/docs)
